@@ -15,7 +15,7 @@
    ücretsiz web hosting aldığım için web sitesi bir zaman sonra çalışmayacaktır
 
 ## Youtube Video Linki 
-- [Tırmanma Oyunu Youtube Videosu ]([http://tirmanmaoyunu.orgfree.com](https://youtu.be/yv83pcrTPBg))
+- [Tırmanma Oyunu Youtube Videosu ](https://youtu.be/yv83pcrTPBg)
 
 
 
